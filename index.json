@@ -2,1722 +2,1722 @@
   "version": 1,
   "files": [
     {
-      "path": "Game/lib/lwjgl-3.4.1-natives-windows.jar",
+      "path": "lib/lwjgl-3.4.1-natives-windows.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/lib/lwjgl-3.4.1-natives-windows.jar",
       "sha256": "21872776b9be0a93c746d6f28797c12ac47a75e0f0188e5a4fad0c20c9a6a07e"
     },
     {
-      "path": "Game/lib/lwjgl-3.4.1.jar",
+      "path": "lib/lwjgl-3.4.1.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/lib/lwjgl-3.4.1.jar",
       "sha256": "9b1c3a3a078c2377219ecb8a2662730b3dece07c10592cf1d12f957286037b69"
     },
     {
-      "path": "Game/lib/lwjgl-glfw-3.4.1-natives-windows.jar",
+      "path": "lib/lwjgl-glfw-3.4.1-natives-windows.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/lib/lwjgl-glfw-3.4.1-natives-windows.jar",
       "sha256": "20adab06c8f5bf1e3515a7e64db261cd83ca8131d674dc5f0af93b514deedac8"
     },
     {
-      "path": "Game/lib/lwjgl-glfw-3.4.1.jar",
+      "path": "lib/lwjgl-glfw-3.4.1.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/lib/lwjgl-glfw-3.4.1.jar",
       "sha256": "c2d93964f0a8b2a846708c7fb1b0a095e7d79dce8ea4c543969ffef508027190"
     },
     {
-      "path": "Game/lib/lwjgl-openal-3.4.1-natives-windows.jar",
+      "path": "lib/lwjgl-openal-3.4.1-natives-windows.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/lib/lwjgl-openal-3.4.1-natives-windows.jar",
       "sha256": "28d4065b9c6be68454eb4d7c0da665bd4bc7cc77d854c1f67afbd2f38ff730a3"
     },
     {
-      "path": "Game/lib/lwjgl-openal-3.4.1.jar",
+      "path": "lib/lwjgl-openal-3.4.1.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/lib/lwjgl-openal-3.4.1.jar",
       "sha256": "824a68b6f22220feb45cdaf06ebd5496b96e38c50e2588fc3ea0e819f910cf28"
     },
     {
-      "path": "Game/lib/lwjgl-opengl-3.4.1-natives-windows.jar",
+      "path": "lib/lwjgl-opengl-3.4.1-natives-windows.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/lib/lwjgl-opengl-3.4.1-natives-windows.jar",
       "sha256": "e174a206709a91c89a840b5d935831bdb386f435ed224e570a0f15b063b4d9b4"
     },
     {
-      "path": "Game/lib/lwjgl-opengl-3.4.1.jar",
+      "path": "lib/lwjgl-opengl-3.4.1.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/lib/lwjgl-opengl-3.4.1.jar",
       "sha256": "a76b8fd9ff7428ae5e0f01b8f91a4e44debba87285048e965757742093418702"
     },
     {
-      "path": "Game/minecraft.jar",
+      "path": "minecraft.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/minecraft.jar",
       "sha256": "a170fc1575e17652c71773cecd0bd2193e7bac8301ae79e2f1eb909a679b59b1"
     },
     {
-      "path": "Game/natives/jinput-dx8_64.dll",
+      "path": "natives/jinput-dx8_64.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/jinput-dx8_64.dll",
       "sha256": "a38cb458b9e5a246d7418f38ac04430c2e5a3f46b082955d6dfd5d2bd74f4222"
     },
     {
-      "path": "Game/natives/jinput-dx8.dll",
+      "path": "natives/jinput-dx8.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/jinput-dx8.dll",
       "sha256": "89779abf806a93dd809bc7a4914967d0e6924dedf293afd48dd205dbce87d8b8"
     },
     {
-      "path": "Game/natives/jinput-raw_64.dll",
+      "path": "natives/jinput-raw_64.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/jinput-raw_64.dll",
       "sha256": "832308f96b1760f2ebc183d1a1771278bb3236e4567dd7a23e1eaecf95f9c03c"
     },
     {
-      "path": "Game/natives/jinput-raw.dll",
+      "path": "natives/jinput-raw.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/jinput-raw.dll",
       "sha256": "0a8c0b47e173453bd92da224f73a6aff35b07c2db315abaf33e68edbdb147971"
     },
     {
-      "path": "Game/natives/jinput-wintab.dll",
+      "path": "natives/jinput-wintab.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/jinput-wintab.dll",
       "sha256": "59201c94eb563025e47fe6b6f5c4dc326f0059d49285e2d3a44482cb60ffc9e2"
     },
     {
-      "path": "Game/natives/lwjgl.dll",
+      "path": "natives/lwjgl.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/lwjgl.dll",
       "sha256": "caf7074511c9ed3af7704223ec491b2992dc23b8c4769dffd64b9fa6c34451bd"
     },
     {
-      "path": "Game/natives/lwjgl64.dll",
+      "path": "natives/lwjgl64.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/lwjgl64.dll",
       "sha256": "094c38a9b6b9ab76e3730838d542419811e63de5d4a4ba5a22d83f6edd803943"
     },
     {
-      "path": "Game/natives/OpenAL32.dll",
+      "path": "natives/OpenAL32.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/OpenAL32.dll",
       "sha256": "baf27fc91dc852d78889e052cfc9ed2b6fc0927258bb507a895c6fcd50f10fef"
     },
     {
-      "path": "Game/natives/OpenAL64.dll",
+      "path": "natives/OpenAL64.dll",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/natives/OpenAL64.dll",
       "sha256": "9261b66010a845ddef9f61d5e4266fe2f08a53f3605da002e9e8f8d202bdbc5e"
     },
     {
-      "path": "Game/resources/music/calm1.ogg",
+      "path": "resources/music/calm1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/music/calm1.ogg",
       "sha256": "e4a8945cceea9765b5541617423404cc48069cab2bce34bb44e76c1413ae26e5"
     },
     {
-      "path": "Game/resources/music/calm2.ogg",
+      "path": "resources/music/calm2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/music/calm2.ogg",
       "sha256": "1627b63a2529370b5fc87fe8a6faf16c364d913ec78e748827ae9b57f138ae5b"
     },
     {
-      "path": "Game/resources/music/calm3.ogg",
+      "path": "resources/music/calm3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/music/calm3.ogg",
       "sha256": "25984ac6655998148d10ab249ef2724f4cf1638aa67dbd0471fde0939d8db368"
     },
     {
-      "path": "Game/resources/newmusic/hal1.ogg",
+      "path": "resources/newmusic/hal1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/hal1.ogg",
       "sha256": "8ccf58af8af93a6dc97ac0f8c05dedaee0b7ee7e555cf4f75d973c47bea4994d"
     },
     {
-      "path": "Game/resources/newmusic/hal2.ogg",
+      "path": "resources/newmusic/hal2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/hal2.ogg",
       "sha256": "ef489e0e0f6d2b38c5a7ce77a5aea8a6513872bdd0a1421a5bca94474c6620e9"
     },
     {
-      "path": "Game/resources/newmusic/hal3.ogg",
+      "path": "resources/newmusic/hal3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/hal3.ogg",
       "sha256": "2642662e7fdd7ecea15c59d8f48e012831317a075b8ac4cd3642cf5415a2fb1e"
     },
     {
-      "path": "Game/resources/newmusic/hal4.ogg",
+      "path": "resources/newmusic/hal4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/hal4.ogg",
       "sha256": "7cd5e5908c5c06ece08336742e28921130cf0fb6cffc4968309509b945de236a"
     },
     {
-      "path": "Game/resources/newmusic/nuance1.ogg",
+      "path": "resources/newmusic/nuance1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/nuance1.ogg",
       "sha256": "0ebe569d1356041e77250e8aa325210df4bbe6eb3170b7ee2fe959cebf2071e0"
     },
     {
-      "path": "Game/resources/newmusic/nuance2.ogg",
+      "path": "resources/newmusic/nuance2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/nuance2.ogg",
       "sha256": "2133f1bf1d04d0fd3ca22fa29096571294e275d3d304bc1cb3318d3ac903433f"
     },
     {
-      "path": "Game/resources/newmusic/piano1.ogg",
+      "path": "resources/newmusic/piano1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/piano1.ogg",
       "sha256": "0bfc170ab3395cbd55307cb38314713c3eed442fe35acb7299d052a11c967387"
     },
     {
-      "path": "Game/resources/newmusic/piano2.ogg",
+      "path": "resources/newmusic/piano2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/piano2.ogg",
       "sha256": "349da439a36b5285e9162c6d300d76d1db9028f4d5048fd5f912af177e2663d1"
     },
     {
-      "path": "Game/resources/newmusic/piano3.ogg",
+      "path": "resources/newmusic/piano3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newmusic/piano3.ogg",
       "sha256": "a47cf88c0fdfe5de1e3f2cd8a1f1b955b474622e1b3b07269783f9755f902b05"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave1.ogg",
+      "path": "resources/newsound/ambient/cave/cave1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave1.ogg",
       "sha256": "1a1c3ea102275ecea6521ba7212b2403dbbda1f2b5d3ae6c9f06201c93c2e8de"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave10.ogg",
+      "path": "resources/newsound/ambient/cave/cave10.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave10.ogg",
       "sha256": "32b41dfc267327b418273ef69fa4132d2a517a49f14a0280747a4bc53e2bacf4"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave11.ogg",
+      "path": "resources/newsound/ambient/cave/cave11.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave11.ogg",
       "sha256": "f86545beb8e89327c5600ed1b3d28fdc08a89c95afc8a9cd7818bdda570fcdaa"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave12.ogg",
+      "path": "resources/newsound/ambient/cave/cave12.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave12.ogg",
       "sha256": "255f98ac90fc31841a5df5291203061d4bb1a8c878f88c396530f17845d41184"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave13.ogg",
+      "path": "resources/newsound/ambient/cave/cave13.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave13.ogg",
       "sha256": "509c9516d7086b7ae85753ed888c466332c251578604946dcc32e41b3d7816a8"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave2.ogg",
+      "path": "resources/newsound/ambient/cave/cave2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave2.ogg",
       "sha256": "86589a436adeedaf4ef6584d7bd6bef4ff31a70fa7ed4c4323a6d9292c042292"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave3.ogg",
+      "path": "resources/newsound/ambient/cave/cave3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave3.ogg",
       "sha256": "8fb59144400fb9d512b35fa3d63be080c447dc9c1717c073c1b4fa0d38ae92df"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave4.ogg",
+      "path": "resources/newsound/ambient/cave/cave4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave4.ogg",
       "sha256": "d54c4c5037edb082750394697f70320d88999ca21d0c510bfb558dd0caed65c5"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave5.ogg",
+      "path": "resources/newsound/ambient/cave/cave5.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave5.ogg",
       "sha256": "f210f15abce8ffe6805fcf68dbfa92e46933293d8eaf9bfed58a347f7f3f4aaa"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave6.ogg",
+      "path": "resources/newsound/ambient/cave/cave6.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave6.ogg",
       "sha256": "f97030e0c8f8f0e28ebb489eef652c3261bc0e46c011f5b31bc3d5b9f5228925"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave7.ogg",
+      "path": "resources/newsound/ambient/cave/cave7.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave7.ogg",
       "sha256": "5db5d586a86d92ab701af6fd9be47cb4d89c8390488da94c7f2bce4b73bd5019"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave8.ogg",
+      "path": "resources/newsound/ambient/cave/cave8.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave8.ogg",
       "sha256": "eb308c43743e3520d2d1350e8ea0cf34e4489aec1c1ff3625d5202588b39c513"
     },
     {
-      "path": "Game/resources/newsound/ambient/cave/cave9.ogg",
+      "path": "resources/newsound/ambient/cave/cave9.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/cave/cave9.ogg",
       "sha256": "d71c83205a6afc85be92d763629297b336deb4a904c77802283e709095b24083"
     },
     {
-      "path": "Game/resources/newsound/ambient/weather/rain1.ogg",
+      "path": "resources/newsound/ambient/weather/rain1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/weather/rain1.ogg",
       "sha256": "5828b3955af49344778533612c804c967078ec1a9f349d65250023f920a52ade"
     },
     {
-      "path": "Game/resources/newsound/ambient/weather/rain2.ogg",
+      "path": "resources/newsound/ambient/weather/rain2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/weather/rain2.ogg",
       "sha256": "3f19f2a6383dabb9b51ab2d4ddbf423fe16fc53336a267de6eafc9a69b77eb92"
     },
     {
-      "path": "Game/resources/newsound/ambient/weather/rain3.ogg",
+      "path": "resources/newsound/ambient/weather/rain3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/weather/rain3.ogg",
       "sha256": "7fa8cf62bb46906c38980ec246e51eee8dfb857f3e51373ca20b2c04397054e3"
     },
     {
-      "path": "Game/resources/newsound/ambient/weather/rain4.ogg",
+      "path": "resources/newsound/ambient/weather/rain4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/weather/rain4.ogg",
       "sha256": "3cab2d8ff2cb3412ca136a6802b9c0cfe32caa4f1f58b61d9dfd5744b71ede6f"
     },
     {
-      "path": "Game/resources/newsound/ambient/weather/thunder1.ogg",
+      "path": "resources/newsound/ambient/weather/thunder1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/weather/thunder1.ogg",
       "sha256": "a361a1586e1c3d410e9062939d0ff568aa14849ceb2b7dde5fca20ab24a73ff8"
     },
     {
-      "path": "Game/resources/newsound/ambient/weather/thunder2.ogg",
+      "path": "resources/newsound/ambient/weather/thunder2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/weather/thunder2.ogg",
       "sha256": "c6618caf8747f96ae355ac1199bab35e8b7da65ddc3000dd9093fe4ee78f6d96"
     },
     {
-      "path": "Game/resources/newsound/ambient/weather/thunder3.ogg",
+      "path": "resources/newsound/ambient/weather/thunder3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/ambient/weather/thunder3.ogg",
       "sha256": "236cf94a65827ac9cfa5740caa84aaf2240877366819be6770d6324cedc21467"
     },
     {
-      "path": "Game/resources/newsound/damage/fallbig1.ogg",
+      "path": "resources/newsound/damage/fallbig1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/damage/fallbig1.ogg",
       "sha256": "9223cd4835cb054988d507fbf9c6a03be96dcd5079ab5c148818994800ac0238"
     },
     {
-      "path": "Game/resources/newsound/damage/fallbig2.ogg",
+      "path": "resources/newsound/damage/fallbig2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/damage/fallbig2.ogg",
       "sha256": "01b520d5b7826af6ae3c78db247d6c363dc728207ac624c6758e0b1f33278c19"
     },
     {
-      "path": "Game/resources/newsound/damage/fallsmall.ogg",
+      "path": "resources/newsound/damage/fallsmall.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/damage/fallsmall.ogg",
       "sha256": "81067dd35c1e8cb2d58907a349ef3835c66de7e4c6cf0f0bd3682a28983bf966"
     },
     {
-      "path": "Game/resources/newsound/damage/hurtflesh1.ogg",
+      "path": "resources/newsound/damage/hurtflesh1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/damage/hurtflesh1.ogg",
       "sha256": "9ab7f37abc60aa1111809131ddabddb2dd1b51a905acf1076ee23c50c512b8e5"
     },
     {
-      "path": "Game/resources/newsound/damage/hurtflesh2.ogg",
+      "path": "resources/newsound/damage/hurtflesh2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/damage/hurtflesh2.ogg",
       "sha256": "b146bcf1052df301e26b72c9942cabc50a8590d488c08518e11037f825c98468"
     },
     {
-      "path": "Game/resources/newsound/damage/hurtflesh3.ogg",
+      "path": "resources/newsound/damage/hurtflesh3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/damage/hurtflesh3.ogg",
       "sha256": "787ecab6f53d415d60870143abe6ec54355e4213e093f0e50e1987b01e80c4d1"
     },
     {
-      "path": "Game/resources/newsound/fire/fire.ogg",
+      "path": "resources/newsound/fire/fire.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/fire/fire.ogg",
       "sha256": "d7c0af67c93206baaefe10e1d55968412b1e1367858b2d940366abcee4e794cc"
     },
     {
-      "path": "Game/resources/newsound/fire/ignite.ogg",
+      "path": "resources/newsound/fire/ignite.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/fire/ignite.ogg",
       "sha256": "10fe6637d8fa3a9256d367b16f89e9b6313d28e8a3d7ffc9d8136a202512a4ea"
     },
     {
-      "path": "Game/resources/newsound/liquid/lava.ogg",
+      "path": "resources/newsound/liquid/lava.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/liquid/lava.ogg",
       "sha256": "018aad624cd42452fb62de54d5e5481635534729d73c3400616bb49d50d3c69a"
     },
     {
-      "path": "Game/resources/newsound/liquid/lavapop.ogg",
+      "path": "resources/newsound/liquid/lavapop.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/liquid/lavapop.ogg",
       "sha256": "36ea4ed27e7ccee174e560e89bb5b1686d49f98136463b9ca1bccfa0d6c37f71"
     },
     {
-      "path": "Game/resources/newsound/liquid/splash.ogg",
+      "path": "resources/newsound/liquid/splash.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/liquid/splash.ogg",
       "sha256": "7a04c68c956f4fe67935e6665666e603de918f64683a79f9e5d5700e6a4c2765"
     },
     {
-      "path": "Game/resources/newsound/liquid/water.ogg",
+      "path": "resources/newsound/liquid/water.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/liquid/water.ogg",
       "sha256": "80903e62e3081674799acb05f34991042ef4a053822075f720870b76bc3a306a"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/breathe1.ogg",
+      "path": "resources/newsound/mob/blaze/breathe1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/breathe1.ogg",
       "sha256": "a49e4572828f3c6db314d6eeabcb37d88b48969f2513e494766d95d46da62b7a"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/breathe2.ogg",
+      "path": "resources/newsound/mob/blaze/breathe2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/breathe2.ogg",
       "sha256": "ced1f87d6a68c111db875da8c59fc562d77108299f143978320d94f6dcfcc8ee"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/breathe3.ogg",
+      "path": "resources/newsound/mob/blaze/breathe3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/breathe3.ogg",
       "sha256": "7b4309bf9db4f5556a2fce43fff014ca1b8543c14ba96815b8a644a9ad53dd7b"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/breathe4.ogg",
+      "path": "resources/newsound/mob/blaze/breathe4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/breathe4.ogg",
       "sha256": "9232175464c58079b0dd40fa915710c4cf522d49213cf441864a57c41a566865"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/death.ogg",
+      "path": "resources/newsound/mob/blaze/death.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/death.ogg",
       "sha256": "9ef443fb83d9a729a1711eb5498ffadd3d06b1a01b3977404035badbd72468fa"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/hit1.ogg",
+      "path": "resources/newsound/mob/blaze/hit1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/hit1.ogg",
       "sha256": "0d40ec7e31f5670ddb5ac1c84aec351b7ea65a8a09dd6f645c7c8ebbfac54817"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/hit2.ogg",
+      "path": "resources/newsound/mob/blaze/hit2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/hit2.ogg",
       "sha256": "a3a8661fb794fa68079ee417574021d5f38a26cc65e7caee6139b5a4bfdd9f2c"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/hit3.ogg",
+      "path": "resources/newsound/mob/blaze/hit3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/hit3.ogg",
       "sha256": "4766b1ec816fa1cd9a2b55985f088d87ae3380e94f20e3cc590619c52dc5caf9"
     },
     {
-      "path": "Game/resources/newsound/mob/blaze/hit4.ogg",
+      "path": "resources/newsound/mob/blaze/hit4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/blaze/hit4.ogg",
       "sha256": "91ea30d417fb4fc4e590e543fe6ae4d53ed528545c5e488643be2385bde6780f"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/hiss1.ogg",
+      "path": "resources/newsound/mob/cat/hiss1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/hiss1.ogg",
       "sha256": "f798aa5d716ca36cee25f2ce5e972e2241647a70be4dff2fd83d1ade0db99ddb"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/hiss2.ogg",
+      "path": "resources/newsound/mob/cat/hiss2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/hiss2.ogg",
       "sha256": "832f521f4bc36fe4c2e87df24736b118cdc86953dcfa98a02dbf258efa64a478"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/hiss3.ogg",
+      "path": "resources/newsound/mob/cat/hiss3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/hiss3.ogg",
       "sha256": "1a0a4c1e680824cf881e95ff1a0ef621a7e7602e231f3e36ded93420c8644fae"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/hitt1.ogg",
+      "path": "resources/newsound/mob/cat/hitt1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/hitt1.ogg",
       "sha256": "d18f5d2b21ce32c10712aec53271a6ebe7632195b4f00d781b550d27a2549e9f"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/hitt2.ogg",
+      "path": "resources/newsound/mob/cat/hitt2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/hitt2.ogg",
       "sha256": "440fc7435bff46930fda42a8460f74ee33f7b10ee50e949b5dbae2108088b209"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/hitt3.ogg",
+      "path": "resources/newsound/mob/cat/hitt3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/hitt3.ogg",
       "sha256": "05f6666aa781a0cf2cb73bafaf829985ec37e6aa87ae01c9060c5c0898affbff"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/meow1.ogg",
+      "path": "resources/newsound/mob/cat/meow1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/meow1.ogg",
       "sha256": "00e2d8f59dce15a76b40e9177bb297f6e5d2866045c3ef0a2b8eb739546ed967"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/meow2.ogg",
+      "path": "resources/newsound/mob/cat/meow2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/meow2.ogg",
       "sha256": "edfbb41105592ea5d076c098ca2b39b1ceb5a813048a8467fdedd42f7968fdc4"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/meow3.ogg",
+      "path": "resources/newsound/mob/cat/meow3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/meow3.ogg",
       "sha256": "98ca7a929fad537254bc3bac30c1c3c0fefe813bdf35e2c96aedbc40dd8166f7"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/meow4.ogg",
+      "path": "resources/newsound/mob/cat/meow4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/meow4.ogg",
       "sha256": "5e1c91402becfe78e80ad40826439776b123d642aeafbdb39a936dc9df8f42ba"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/purr1.ogg",
+      "path": "resources/newsound/mob/cat/purr1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/purr1.ogg",
       "sha256": "1c21da9a9c3771b2410e8d197aebc6a2fc72a87924dfc88ea1f03d605ebb7609"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/purr2.ogg",
+      "path": "resources/newsound/mob/cat/purr2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/purr2.ogg",
       "sha256": "14fd7dcbd5939afc0713907dfaccc619693fe16c61c667663a24204b6bfea6e2"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/purr3.ogg",
+      "path": "resources/newsound/mob/cat/purr3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/purr3.ogg",
       "sha256": "8192d4212d7f24937b6a70c89e3dfa3aed006123d32c41433261dd97ef98df9b"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/purreow1.ogg",
+      "path": "resources/newsound/mob/cat/purreow1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/purreow1.ogg",
       "sha256": "c39741cc1ef5460d29ae5fb43fa5b85e07d2ed02d6c4d4b91007e58479da848d"
     },
     {
-      "path": "Game/resources/newsound/mob/cat/purreow2.ogg",
+      "path": "resources/newsound/mob/cat/purreow2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cat/purreow2.ogg",
       "sha256": "c9cc0aabd14a112d41681d011675dd27bdc14a3bd399414f32abc1457170ee18"
     },
     {
-      "path": "Game/resources/newsound/mob/chicken1.ogg",
+      "path": "resources/newsound/mob/chicken1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/chicken1.ogg",
       "sha256": "5396aa9aebab2533f5b0df30f37280672c614499da4d1c73c553696afad62d2a"
     },
     {
-      "path": "Game/resources/newsound/mob/chicken2.ogg",
+      "path": "resources/newsound/mob/chicken2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/chicken2.ogg",
       "sha256": "0ab57724579519794592587f5118cb33219eb3c9e01ebdaed5f44785995e143e"
     },
     {
-      "path": "Game/resources/newsound/mob/chicken3.ogg",
+      "path": "resources/newsound/mob/chicken3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/chicken3.ogg",
       "sha256": "f7117947467cd443b6b4db869044fc0ca401dcdd130082805912ed4336ec5fe2"
     },
     {
-      "path": "Game/resources/newsound/mob/chickenhurt1.ogg",
+      "path": "resources/newsound/mob/chickenhurt1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/chickenhurt1.ogg",
       "sha256": "f8db356a0f474ac9b907485c760314fb8ad963fc2b1aa97ad01efe42e5f063b3"
     },
     {
-      "path": "Game/resources/newsound/mob/chickenhurt2.ogg",
+      "path": "resources/newsound/mob/chickenhurt2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/chickenhurt2.ogg",
       "sha256": "b76ce1f898495f4d178e552ac63d18ba86661317c3f5fa42e425e51abb330f8a"
     },
     {
-      "path": "Game/resources/newsound/mob/chickenplop.ogg",
+      "path": "resources/newsound/mob/chickenplop.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/chickenplop.ogg",
       "sha256": "89b7ceb1d18d2c3d3d462a8409db0e6db34e0dc29b8164ccbb211bd1be72e390"
     },
     {
-      "path": "Game/resources/newsound/mob/cow1.ogg",
+      "path": "resources/newsound/mob/cow1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cow1.ogg",
       "sha256": "5179706ef6f6afe0fa548568b8221c9967d31d0b3579ee7d5b6ff4fab4d4b09e"
     },
     {
-      "path": "Game/resources/newsound/mob/cow2.ogg",
+      "path": "resources/newsound/mob/cow2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cow2.ogg",
       "sha256": "748c848476f631946c329b451a2f841f2f1aa5c2ed418f89f87eb9ae597ad076"
     },
     {
-      "path": "Game/resources/newsound/mob/cow3.ogg",
+      "path": "resources/newsound/mob/cow3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cow3.ogg",
       "sha256": "70883b349cbbdfab28dc354def4cc604585c3023395b094713f8f095f7699cb0"
     },
     {
-      "path": "Game/resources/newsound/mob/cow4.ogg",
+      "path": "resources/newsound/mob/cow4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cow4.ogg",
       "sha256": "e578c5ac24d6c931a24f4c8506739310a5aaf0feac2758dc7f60ea79aaa551e8"
     },
     {
-      "path": "Game/resources/newsound/mob/cowhurt1.ogg",
+      "path": "resources/newsound/mob/cowhurt1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cowhurt1.ogg",
       "sha256": "42fdeeb8399a471796ae1c74713aed0da91ff038fd8f5d85cc2cb3db3b8b5ed8"
     },
     {
-      "path": "Game/resources/newsound/mob/cowhurt2.ogg",
+      "path": "resources/newsound/mob/cowhurt2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cowhurt2.ogg",
       "sha256": "7e02494277841c6cadc677df078ce81876cc8652a734179dc54d75d5ac4f8c1e"
     },
     {
-      "path": "Game/resources/newsound/mob/cowhurt3.ogg",
+      "path": "resources/newsound/mob/cowhurt3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/cowhurt3.ogg",
       "sha256": "3a3d0416e0aa63b3314b499f36a3334a23e945029a8ebfb3a357948c87db6ffe"
     },
     {
-      "path": "Game/resources/newsound/mob/creeper1.ogg",
+      "path": "resources/newsound/mob/creeper1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/creeper1.ogg",
       "sha256": "a5f3b96b194f124b1c4fcd7d0f1754c62c35705ff936c8d6c054fdecb00604f3"
     },
     {
-      "path": "Game/resources/newsound/mob/creeper2.ogg",
+      "path": "resources/newsound/mob/creeper2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/creeper2.ogg",
       "sha256": "1154ea9daaffcc5a96220732b8be5ffedfaf90341dd1d9ac98e91b172070fc96"
     },
     {
-      "path": "Game/resources/newsound/mob/creeper3.ogg",
+      "path": "resources/newsound/mob/creeper3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/creeper3.ogg",
       "sha256": "ffcc84fa087b845dfc5a3c980753f294fb6beceb28117f64119ca466718f97b9"
     },
     {
-      "path": "Game/resources/newsound/mob/creeper4.ogg",
+      "path": "resources/newsound/mob/creeper4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/creeper4.ogg",
       "sha256": "72dbbc987301c203ceb1a9f41fd229e2ec65e151d08efc7651b58bebfab57885"
     },
     {
-      "path": "Game/resources/newsound/mob/creeperdeath.ogg",
+      "path": "resources/newsound/mob/creeperdeath.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/creeperdeath.ogg",
       "sha256": "f5373a0dad28c21d52349be7c1d06403e198bdef6054dd86fd3a9efb0d450123"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/death.ogg",
+      "path": "resources/newsound/mob/endermen/death.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/death.ogg",
       "sha256": "19761b3960f609352f4577aea96cd6c42cc26aab7caca7feeff3b786e958fb03"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/hit1.ogg",
+      "path": "resources/newsound/mob/endermen/hit1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/hit1.ogg",
       "sha256": "78a14a0de4d4fc6712b0270de11a421c2cacafe9817b1ecde24d4e0c8e0a7ee4"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/hit2.ogg",
+      "path": "resources/newsound/mob/endermen/hit2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/hit2.ogg",
       "sha256": "a8e2b9ca38609bb825f951592cda82162bd905379e0724542763c79d2ad5a9ae"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/hit3.ogg",
+      "path": "resources/newsound/mob/endermen/hit3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/hit3.ogg",
       "sha256": "c9119bd892ff84c2c56723a4a2da2ad283872efd4b8ac01af148fc8a3d5cfa3f"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/hit4.ogg",
+      "path": "resources/newsound/mob/endermen/hit4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/hit4.ogg",
       "sha256": "471c3427f930e5d945b6d03a7d7e49c5c2a50f65642e3a6ccae9aadc91d36327"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/idle1.ogg",
+      "path": "resources/newsound/mob/endermen/idle1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/idle1.ogg",
       "sha256": "fecf3abdb2e5c076405a7900b4f30715ccac4ef73beb04ddd1731aec67a0cdcd"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/idle2.ogg",
+      "path": "resources/newsound/mob/endermen/idle2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/idle2.ogg",
       "sha256": "20bffdffd29fa0acc3c87b6a8c6cb78b6ff78f7d7b9612d48e217a86510cdf1a"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/idle3.ogg",
+      "path": "resources/newsound/mob/endermen/idle3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/idle3.ogg",
       "sha256": "2edd1e3762498b8965fb2260350f5126f41a3146820f4efd3499cc0e3104bf0e"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/idle4.ogg",
+      "path": "resources/newsound/mob/endermen/idle4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/idle4.ogg",
       "sha256": "db85f0582aa1fec21b264034e6c11107df8032a12b92f67eaee0b1fe274aeacd"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/idle5.ogg",
+      "path": "resources/newsound/mob/endermen/idle5.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/idle5.ogg",
       "sha256": "90da52e61fa75b9c9536cf91387375a76a08af72519bc256ca7aea61864c9c58"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/portal.ogg",
+      "path": "resources/newsound/mob/endermen/portal.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/portal.ogg",
       "sha256": "22ea617abb6797d10040baaa64bc4d6e7debc7f08840f1f21e55b5b69c555bbb"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/portal2.ogg",
+      "path": "resources/newsound/mob/endermen/portal2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/portal2.ogg",
       "sha256": "af6d05f3202d0ae1292b8c12600244a4b1da07ae6f757ab719ed6a8f1bed9244"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/scream1.ogg",
+      "path": "resources/newsound/mob/endermen/scream1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/scream1.ogg",
       "sha256": "8faba65a5bbdc4a958e4316d327dbd1e94e87dbb4ed32055fd75b49f46f32a49"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/scream2.ogg",
+      "path": "resources/newsound/mob/endermen/scream2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/scream2.ogg",
       "sha256": "6b143f0d93bc7670d0097df52b9d4e7be4bbc9283ad5bb7ba4f5fef0645d89e1"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/scream3.ogg",
+      "path": "resources/newsound/mob/endermen/scream3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/scream3.ogg",
       "sha256": "c933de47f9dc2abe2eb840240cd208cb9f19aa62e82b010f0ea73b9b7203a98b"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/scream4.ogg",
+      "path": "resources/newsound/mob/endermen/scream4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/scream4.ogg",
       "sha256": "bc534d99d901a86da0402e40e9b1e5c4ec2f2c1bf361a357e061bba73b1cabc5"
     },
     {
-      "path": "Game/resources/newsound/mob/endermen/stare.ogg",
+      "path": "resources/newsound/mob/endermen/stare.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/endermen/stare.ogg",
       "sha256": "ea9e4f8441f7f248c668d21485727996b6a5725dfbbee5815b628cea75eb4cd1"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/affectionate scream.ogg",
+      "path": "resources/newsound/mob/ghast/affectionate scream.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/affectionate%20scream.ogg",
       "sha256": "bfc0660825d8b843e7efbdf03c0f45677e4a94a5059748851284895c03b8385d"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/charge.ogg",
+      "path": "resources/newsound/mob/ghast/charge.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/charge.ogg",
       "sha256": "a32bd38cfff32eec72480793fa50520bec898fd33626f6de3fa47cf778adc1db"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/death.ogg",
+      "path": "resources/newsound/mob/ghast/death.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/death.ogg",
       "sha256": "999ae12476dc0e077fa3b49e0ea3cb35b608e070cb72135f692da7831ca68a1a"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/fireball4.ogg",
+      "path": "resources/newsound/mob/ghast/fireball4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/fireball4.ogg",
       "sha256": "d88d1eea0f64ebbe1eae9faf2826ad26298d0f1844f1f94ff98b5b5a51b33f89"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/moan1.ogg",
+      "path": "resources/newsound/mob/ghast/moan1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/moan1.ogg",
       "sha256": "ff215e12398bab7a86f775dcaa365c2176c601fc467d4b1c9b3e09cac62bb32d"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/moan2.ogg",
+      "path": "resources/newsound/mob/ghast/moan2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/moan2.ogg",
       "sha256": "b39c036b1f17500a8cc488a0dfd4dc0fb4bc8b42e0094a34534fed34e9192f74"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/moan3.ogg",
+      "path": "resources/newsound/mob/ghast/moan3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/moan3.ogg",
       "sha256": "64e6be9a3d7cd973c9b1601afeb2fe05c116b4ef00e27eb658b16c5dd83430b9"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/moan4.ogg",
+      "path": "resources/newsound/mob/ghast/moan4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/moan4.ogg",
       "sha256": "048fd373a7aacfc694bfc0c55732212448379d8329d00a2a5c6e9a8d3e309981"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/moan5.ogg",
+      "path": "resources/newsound/mob/ghast/moan5.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/moan5.ogg",
       "sha256": "0f447ab71dda002e561338034fc77ef614426293bae93e9204ad3126f2b81424"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/moan6.ogg",
+      "path": "resources/newsound/mob/ghast/moan6.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/moan6.ogg",
       "sha256": "5d6343ffc03c11fd2dfe5abf1f24c762109187b72f83a3c7ec7c2e9716ab056f"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/moan7.ogg",
+      "path": "resources/newsound/mob/ghast/moan7.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/moan7.ogg",
       "sha256": "306864e7d1f290489ed73241b69c8af8cdea7f12b4c36be61d2a9b6264136bdb"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/scream1.ogg",
+      "path": "resources/newsound/mob/ghast/scream1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/scream1.ogg",
       "sha256": "109d6ebea55ddccfa3054b1876ae8663ab2efef62f825e9630100807ec6c4c03"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/scream2.ogg",
+      "path": "resources/newsound/mob/ghast/scream2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/scream2.ogg",
       "sha256": "ecb73ac0f886a2ab3aa62ab1fa9bfca23c0552726b4e5615d0db5b3511fd68c9"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/scream3.ogg",
+      "path": "resources/newsound/mob/ghast/scream3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/scream3.ogg",
       "sha256": "58ec87b2b24a2e4eb09894f090a95a14e64f3a1a4192b31c3adb85248b6f2c84"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/scream4.ogg",
+      "path": "resources/newsound/mob/ghast/scream4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/scream4.ogg",
       "sha256": "039aed69cd4b2aa4b3c8f1e9db0214bd63be6d2c426c6546485bbd3566f57093"
     },
     {
-      "path": "Game/resources/newsound/mob/ghast/scream5.ogg",
+      "path": "resources/newsound/mob/ghast/scream5.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/ghast/scream5.ogg",
       "sha256": "0124311f75e3282034d5ba15d7ce3c354925bc1c68ab31985d8452fe58a82aba"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/death.ogg",
+      "path": "resources/newsound/mob/irongolem/death.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/death.ogg",
       "sha256": "2bf02ebfcd22a354433af59da0e3f69ef08c2987ec7cf7524573b47aca7ce327"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/hit1.ogg",
+      "path": "resources/newsound/mob/irongolem/hit1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/hit1.ogg",
       "sha256": "7a765cef7580718760963b0c2a88d1c5737d248c154f529e4be721b73dc69a23"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/hit2.ogg",
+      "path": "resources/newsound/mob/irongolem/hit2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/hit2.ogg",
       "sha256": "6f936f042e36883a6124317a2e5f1394408544b1fd2449ed81e399bfb8bed6fd"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/hit3.ogg",
+      "path": "resources/newsound/mob/irongolem/hit3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/hit3.ogg",
       "sha256": "7746a543f0aa218bdc95078dbc4c8056a1bc4b429756edcc96f512aaf745a345"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/hit4.ogg",
+      "path": "resources/newsound/mob/irongolem/hit4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/hit4.ogg",
       "sha256": "e589a7c29e532bb9d62c7eecb681726d4006d9d2a1d78923cc8955fa2b329832"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/throw.ogg",
+      "path": "resources/newsound/mob/irongolem/throw.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/throw.ogg",
       "sha256": "3a3fe1e4433602a7ad443bd4fd7f2f6b49a8d6c21f9eb84912c29236c7bc12c8"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/walk1.ogg",
+      "path": "resources/newsound/mob/irongolem/walk1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/walk1.ogg",
       "sha256": "2b1b1ffe8760744d7acffc90250349234efb6e5022d16a61ef17f41c770c653a"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/walk2.ogg",
+      "path": "resources/newsound/mob/irongolem/walk2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/walk2.ogg",
       "sha256": "50b6963bc60d47d43d492c35c61b10d411b248cc7c3655dcba141f353a3841d3"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/walk3.ogg",
+      "path": "resources/newsound/mob/irongolem/walk3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/walk3.ogg",
       "sha256": "1813629a16b482dc72141851e7c14de6344d83c7a63515479825cd9c8c3c86a5"
     },
     {
-      "path": "Game/resources/newsound/mob/irongolem/walk4.ogg",
+      "path": "resources/newsound/mob/irongolem/walk4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/irongolem/walk4.ogg",
       "sha256": "a7c5b2e7286a14ef57f0b8c15c8ec2e0d057953104ae52115bb17f0f03a3ff62"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/big1.ogg",
+      "path": "resources/newsound/mob/magmacube/big1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/big1.ogg",
       "sha256": "f022e8cfda1b5c7c3b2adee2f7ece205caf00e1bfef784a7ccb5a662bb3d35d8"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/big2.ogg",
+      "path": "resources/newsound/mob/magmacube/big2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/big2.ogg",
       "sha256": "7a1a6633e88debdcb6dc8bffe57d80c2d6cb9f64c44cd475c7d7c6a698136ecb"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/big3.ogg",
+      "path": "resources/newsound/mob/magmacube/big3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/big3.ogg",
       "sha256": "67f07439240134669802cd3ec95907b588dd05d83166568b08e62c73b21d5aeb"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/big4.ogg",
+      "path": "resources/newsound/mob/magmacube/big4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/big4.ogg",
       "sha256": "2b0b4d21164e96646bfbcce0e7f8ec499f61f75976514cc868e56a9cbf869f3a"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/jump1.ogg",
+      "path": "resources/newsound/mob/magmacube/jump1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/jump1.ogg",
       "sha256": "18d02b78ad938c3ae2670c81de41efbb688a7693c0609c6c15eb29d3f2175cc1"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/jump2.ogg",
+      "path": "resources/newsound/mob/magmacube/jump2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/jump2.ogg",
       "sha256": "fa099ef9d3a05dc2d31ca90ac725b86883f0f85bd64d7f89e4301388018519b6"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/jump3.ogg",
+      "path": "resources/newsound/mob/magmacube/jump3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/jump3.ogg",
       "sha256": "4df9716c540b202f1b98aa2c1ef41301318839c166ad10c313a405b9e118925f"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/jump4.ogg",
+      "path": "resources/newsound/mob/magmacube/jump4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/jump4.ogg",
       "sha256": "3ee91c03c5c9da728e7ed046f859aaf3779d7b3a3db48491fc7f235f7fe7906f"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/small1.ogg",
+      "path": "resources/newsound/mob/magmacube/small1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/small1.ogg",
       "sha256": "2b83239976d2ea2a9cb9f82f67480ba0261ddf6dbe70b241de2753faa214e137"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/small2.ogg",
+      "path": "resources/newsound/mob/magmacube/small2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/small2.ogg",
       "sha256": "715ecf390cc6e55c384575fab6fe2da510d612d198e7c6c39e9711bb8b06c1d7"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/small3.ogg",
+      "path": "resources/newsound/mob/magmacube/small3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/small3.ogg",
       "sha256": "1a63b5010120aeba4a289dd5ff6f22b2d52824665a0ac2b529ce924fc2a0eacf"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/small4.ogg",
+      "path": "resources/newsound/mob/magmacube/small4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/small4.ogg",
       "sha256": "7e112e9b50616858c21009780a4745d7b21cf133355e3138f28bce99273f4a67"
     },
     {
-      "path": "Game/resources/newsound/mob/magmacube/small5.ogg",
+      "path": "resources/newsound/mob/magmacube/small5.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/magmacube/small5.ogg",
       "sha256": "8fb1368e378bf250b047654d799f71fb1eea236b5f07b779f4dc43e319b6364f"
     },
     {
-      "path": "Game/resources/newsound/mob/pig1.ogg",
+      "path": "resources/newsound/mob/pig1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/pig1.ogg",
       "sha256": "a6d53f56193788d32344d615db34d203f3060aa579ca7a572738178db94c9faf"
     },
     {
-      "path": "Game/resources/newsound/mob/pig2.ogg",
+      "path": "resources/newsound/mob/pig2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/pig2.ogg",
       "sha256": "46a7eb96fb0eb120419d894b9b9d003a3ec6dc1e5ea12a5b8b1e09bd624bcc76"
     },
     {
-      "path": "Game/resources/newsound/mob/pig3.ogg",
+      "path": "resources/newsound/mob/pig3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/pig3.ogg",
       "sha256": "172d6d666dd6c4506ed6313bbe3d8f0baea506f981d669509da0d1946568d26b"
     },
     {
-      "path": "Game/resources/newsound/mob/pigdeath.ogg",
+      "path": "resources/newsound/mob/pigdeath.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/pigdeath.ogg",
       "sha256": "3fe52ae493581b67313461f95d2119a36cf346de2ff846946cd2e224a5228171"
     },
     {
-      "path": "Game/resources/newsound/mob/sheep1.ogg",
+      "path": "resources/newsound/mob/sheep1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/sheep1.ogg",
       "sha256": "3138381f5a3d51a6bb9f61b36e45afb0e769281433d4b4e4b7b0191471edb74c"
     },
     {
-      "path": "Game/resources/newsound/mob/sheep2.ogg",
+      "path": "resources/newsound/mob/sheep2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/sheep2.ogg",
       "sha256": "3a81accff735f48eb4ddb631ae74e903d619f0f0803a792f895a149d7be082d9"
     },
     {
-      "path": "Game/resources/newsound/mob/sheep3.ogg",
+      "path": "resources/newsound/mob/sheep3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/sheep3.ogg",
       "sha256": "0147bcae0c1907b6a2f34c7f1c4c848424f8f558c9960a38c20198a917b601c8"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/hit1.ogg",
+      "path": "resources/newsound/mob/silverfish/hit1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/hit1.ogg",
       "sha256": "a00f6c37084491b6bc381de34c843dfa02d2d27101c65547ebb95026fccbed7e"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/hit2.ogg",
+      "path": "resources/newsound/mob/silverfish/hit2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/hit2.ogg",
       "sha256": "10491ae19332d24e50109ea81e00664b6d825f8af9fb4b7625850f7825f82333"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/hit3.ogg",
+      "path": "resources/newsound/mob/silverfish/hit3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/hit3.ogg",
       "sha256": "753ecbddb763d45f23d8ce2a24eaf933e144448a3db93da407bf7f05f45b9d28"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/kill.ogg",
+      "path": "resources/newsound/mob/silverfish/kill.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/kill.ogg",
       "sha256": "94182307d9b66d8e0029ec3b1ea4b8071a28f6f5bc240f21399e886f1e3bc382"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/say1.ogg",
+      "path": "resources/newsound/mob/silverfish/say1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/say1.ogg",
       "sha256": "df81d1547db8403e4c2a93ef5a63b60ab7489c09544910610e5be40c108d211b"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/say2.ogg",
+      "path": "resources/newsound/mob/silverfish/say2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/say2.ogg",
       "sha256": "1b41758b85004e8868dcd702f988263bc9b1bea1a345a889ac67b244c5ee5668"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/say3.ogg",
+      "path": "resources/newsound/mob/silverfish/say3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/say3.ogg",
       "sha256": "9e8c35e59b79bb29fd43840ffb1b26b9108dfd9ec9082a314c3b8794bd3826f3"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/say4.ogg",
+      "path": "resources/newsound/mob/silverfish/say4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/say4.ogg",
       "sha256": "ee5c41c079c0a2940adcec91ba65678a021930d2569f9b140e03826678ab9190"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/step1.ogg",
+      "path": "resources/newsound/mob/silverfish/step1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/step1.ogg",
       "sha256": "ac021d3a83e0dcd5c13020b0a56e0f209db5e4252221d67df8e82e066d3eaf40"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/step2.ogg",
+      "path": "resources/newsound/mob/silverfish/step2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/step2.ogg",
       "sha256": "ad3983e4f5fb5bb7afe28c1a130f5b165462fd0a8fa0d8e405de2a6cbbd80403"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/step3.ogg",
+      "path": "resources/newsound/mob/silverfish/step3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/step3.ogg",
       "sha256": "9ef93dde57e47710ba7cfc268df4606942ee386710d6b166dd13d21489274acb"
     },
     {
-      "path": "Game/resources/newsound/mob/silverfish/step4.ogg",
+      "path": "resources/newsound/mob/silverfish/step4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/silverfish/step4.ogg",
       "sha256": "c580c3897afe86ff8215053a61fdd03aef87d55229c89efcaa4f125159a51f22"
     },
     {
-      "path": "Game/resources/newsound/mob/skeleton1.ogg",
+      "path": "resources/newsound/mob/skeleton1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/skeleton1.ogg",
       "sha256": "7543f97233eb091dd2aa7a6705b88dd060105e845e9b8489b4aff2d844efb4c3"
     },
     {
-      "path": "Game/resources/newsound/mob/skeleton2.ogg",
+      "path": "resources/newsound/mob/skeleton2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/skeleton2.ogg",
       "sha256": "ae40502715776c3dc36b232a81f5f973fe8f70a0e2cf5dcba328e9b002db8e80"
     },
     {
-      "path": "Game/resources/newsound/mob/skeleton3.ogg",
+      "path": "resources/newsound/mob/skeleton3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/skeleton3.ogg",
       "sha256": "c7dee0f2702ebfa1e6ed08b50fd753906d9c22fc79c8f4582de2d229b2d33552"
     },
     {
-      "path": "Game/resources/newsound/mob/skeletondeath.ogg",
+      "path": "resources/newsound/mob/skeletondeath.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/skeletondeath.ogg",
       "sha256": "5ea5e1cc0edf0b6093210a7440a5cec43f8a9ef906e258795fe4160a1a102ec5"
     },
     {
-      "path": "Game/resources/newsound/mob/skeletonhurt1.ogg",
+      "path": "resources/newsound/mob/skeletonhurt1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/skeletonhurt1.ogg",
       "sha256": "e1cb8cb6a5d8dc85243c16b9bdaafe9b44f9503e53607a61a937ffa66908636f"
     },
     {
-      "path": "Game/resources/newsound/mob/skeletonhurt2.ogg",
+      "path": "resources/newsound/mob/skeletonhurt2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/skeletonhurt2.ogg",
       "sha256": "0591a9b410107d7f1eb6b2406dd3c1e1c76095f7c1b675b42ad6d97b087bf123"
     },
     {
-      "path": "Game/resources/newsound/mob/skeletonhurt3.ogg",
+      "path": "resources/newsound/mob/skeletonhurt3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/skeletonhurt3.ogg",
       "sha256": "216ae23e644725fadafdfa1b329d0ac7741013447cc9e8f9bcf6d84bd51a4fe0"
     },
     {
-      "path": "Game/resources/newsound/mob/skeletonhurt4.ogg",
+      "path": "resources/newsound/mob/skeletonhurt4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/skeletonhurt4.ogg",
       "sha256": "9dfaae48099c2cd82b1687c56ab79ba3c09e74302b901840dc1c34a9dbe919db"
     },
     {
-      "path": "Game/resources/newsound/mob/slime1.ogg",
+      "path": "resources/newsound/mob/slime1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/slime1.ogg",
       "sha256": "0dbc30393e8527033e3bc74c277f6ef712e803d861ea1ca9bad91d33321781fc"
     },
     {
-      "path": "Game/resources/newsound/mob/slime2.ogg",
+      "path": "resources/newsound/mob/slime2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/slime2.ogg",
       "sha256": "41132e31f04d56f52e21fffb764f9a242e7a23a585bd6e50e6251eda3016305e"
     },
     {
-      "path": "Game/resources/newsound/mob/slime3.ogg",
+      "path": "resources/newsound/mob/slime3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/slime3.ogg",
       "sha256": "120796709985182d1b823670d0a2bfda367a7fbfcd585771caa535c65bd6ec01"
     },
     {
-      "path": "Game/resources/newsound/mob/slime4.ogg",
+      "path": "resources/newsound/mob/slime4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/slime4.ogg",
       "sha256": "32ba6331a560f3ae199c2521dbef8f489ef3d8e314e2f6b52dc04805b58ceea7"
     },
     {
-      "path": "Game/resources/newsound/mob/slime5.ogg",
+      "path": "resources/newsound/mob/slime5.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/slime5.ogg",
       "sha256": "def8113c8f9cf78525fdcd0b516b0d4d4684a2ffc3ff00ebc7261d79a7a8173b"
     },
     {
-      "path": "Game/resources/newsound/mob/slimeattack1.ogg",
+      "path": "resources/newsound/mob/slimeattack1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/slimeattack1.ogg",
       "sha256": "a953ff5cf25dfccae2a7dce104663671143150ea149ce4f6b157b9ccc6d8a74c"
     },
     {
-      "path": "Game/resources/newsound/mob/slimeattack2.ogg",
+      "path": "resources/newsound/mob/slimeattack2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/slimeattack2.ogg",
       "sha256": "5941ed2db72663d081148649e0b5f75a3b8b057794145edc3399f56a5d24f569"
     },
     {
-      "path": "Game/resources/newsound/mob/spider1.ogg",
+      "path": "resources/newsound/mob/spider1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/spider1.ogg",
       "sha256": "12bdac5ab8b092987b3e090bc11563af39f7e81e6a1cda905ca72582e66583dc"
     },
     {
-      "path": "Game/resources/newsound/mob/spider2.ogg",
+      "path": "resources/newsound/mob/spider2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/spider2.ogg",
       "sha256": "fc21014580e7501e400a3679617e7ab0d5b9729b6bbb4cb356d0ad0d0bc5c94b"
     },
     {
-      "path": "Game/resources/newsound/mob/spider3.ogg",
+      "path": "resources/newsound/mob/spider3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/spider3.ogg",
       "sha256": "a6a41a152090fa334a63ce48132bd82123c541817cac46700702ba6cfb28adca"
     },
     {
-      "path": "Game/resources/newsound/mob/spider4.ogg",
+      "path": "resources/newsound/mob/spider4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/spider4.ogg",
       "sha256": "0b8cd1e6db3a92fe03934249934ca739a38509d517388d26e3ab2c10cbc1d7dc"
     },
     {
-      "path": "Game/resources/newsound/mob/spiderdeath.ogg",
+      "path": "resources/newsound/mob/spiderdeath.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/spiderdeath.ogg",
       "sha256": "0ad281aa0a056f015c392bbec569ca1f9fbc985f24d4c34bbdc3414ca95fb752"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/bark1.ogg",
+      "path": "resources/newsound/mob/wolf/bark1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/bark1.ogg",
       "sha256": "7a7c717c1477513ff7fda28d9dcc86713a4374583893d2b1581b1995078c71f3"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/bark2.ogg",
+      "path": "resources/newsound/mob/wolf/bark2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/bark2.ogg",
       "sha256": "46d29a911a558e1ba7fe06030f354d9606607636c536f06ed60964148b29ac69"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/bark3.ogg",
+      "path": "resources/newsound/mob/wolf/bark3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/bark3.ogg",
       "sha256": "66c643cb2fe191f6c37e9a0c0b2852de8ce8e118a42306a79ca20675f781582c"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/death.ogg",
+      "path": "resources/newsound/mob/wolf/death.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/death.ogg",
       "sha256": "eaf00c1d455786d235767e452489f8eb399f5f289a49b2bd5cd7fc6ca5628cf1"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/growl1.ogg",
+      "path": "resources/newsound/mob/wolf/growl1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/growl1.ogg",
       "sha256": "0389ada7c74a150982e4b93b42c413780a672874f407f992bdfb6ffc35281f34"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/growl2.ogg",
+      "path": "resources/newsound/mob/wolf/growl2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/growl2.ogg",
       "sha256": "52cc0f0e9bff46189af5673ddda8fc441da03a722ac7b10e67df07173dc0eae1"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/growl3.ogg",
+      "path": "resources/newsound/mob/wolf/growl3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/growl3.ogg",
       "sha256": "5d4815bb97d6aa66be74f9d778615af6a25b548f3cda5860272583effe7a1bf5"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/howl1.ogg",
+      "path": "resources/newsound/mob/wolf/howl1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/howl1.ogg",
       "sha256": "e20b0d4dc8a13d955c5c2e7a94683b6340be4f34986b470bb268ac339a4d168f"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/howl2.ogg",
+      "path": "resources/newsound/mob/wolf/howl2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/howl2.ogg",
       "sha256": "4b59670d8d061e624fab66b71a164c170c36360628b894a2baca496a6568d757"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/hurt1.ogg",
+      "path": "resources/newsound/mob/wolf/hurt1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/hurt1.ogg",
       "sha256": "149b2042d2e00721eedf6b4561d5dacdeab24069fc572a4b498953b297cb38fe"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/hurt2.ogg",
+      "path": "resources/newsound/mob/wolf/hurt2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/hurt2.ogg",
       "sha256": "2f1e5cb0cd10ea9518cd3edaed4a93c2cdcd4ac80e7e91f41d6d9e2d088c7b2e"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/hurt3.ogg",
+      "path": "resources/newsound/mob/wolf/hurt3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/hurt3.ogg",
       "sha256": "e75590c84aadfe8491a006ad90b34d4b7ef6705db6ea25b6fc3ea04c415ccd53"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/panting.ogg",
+      "path": "resources/newsound/mob/wolf/panting.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/panting.ogg",
       "sha256": "876d6c695624352260cf125664d889891104aed72021e95b6b2fb330930d5878"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/shake.ogg",
+      "path": "resources/newsound/mob/wolf/shake.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/shake.ogg",
       "sha256": "56fc1b38d8e73d23e899e078ac89a08a8c82b8ef3af45dfefb4637d219c3bdfb"
     },
     {
-      "path": "Game/resources/newsound/mob/wolf/whine.ogg",
+      "path": "resources/newsound/mob/wolf/whine.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/wolf/whine.ogg",
       "sha256": "c21e827bbc0abb4ca079f4dd677bd3c7e5f0df428cbb414883fb6db8600d1286"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie/metal1.ogg",
+      "path": "resources/newsound/mob/zombie/metal1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie/metal1.ogg",
       "sha256": "58bf0e05478b197b04f74cc1bd181fef1376eaf8ee1d5fda30f2b4f492ec4e70"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie/metal2.ogg",
+      "path": "resources/newsound/mob/zombie/metal2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie/metal2.ogg",
       "sha256": "b5b02ab0fc751dddc4855e7113310c58d60a01a5f0e606a5b9a0aaaa001653db"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie/metal3.ogg",
+      "path": "resources/newsound/mob/zombie/metal3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie/metal3.ogg",
       "sha256": "1d05c0fdc85d83a1541c298f3bac23136605994e48ec5dcb12d57d1411a279d8"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie/wood1.ogg",
+      "path": "resources/newsound/mob/zombie/wood1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie/wood1.ogg",
       "sha256": "2067240e60b98536e241b386f00e846bba7977433e2efa4e9a29f1c919414559"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie/wood2.ogg",
+      "path": "resources/newsound/mob/zombie/wood2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie/wood2.ogg",
       "sha256": "e793516a865123ee896dc4d04d1a474a4ea076dd1efeedc56d2c164a513e50e4"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie/wood3.ogg",
+      "path": "resources/newsound/mob/zombie/wood3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie/wood3.ogg",
       "sha256": "4f28ca06444938bd91939435dcbe10f1220e20803e78970c8f4a339d1d352d18"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie/wood4.ogg",
+      "path": "resources/newsound/mob/zombie/wood4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie/wood4.ogg",
       "sha256": "c073e39be2c9be3da084d813eb2a5c694965c998ac21f5fed448f48108c02648"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie/woodbreak.ogg",
+      "path": "resources/newsound/mob/zombie/woodbreak.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie/woodbreak.ogg",
       "sha256": "bf1f722bda05b390f2ee9f0cb116afffddcd020ee6e6c79fb87d650012b93c38"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie1.ogg",
+      "path": "resources/newsound/mob/zombie1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie1.ogg",
       "sha256": "b1f2b64cc2639c869d57955aabf9d46206ae7a8def97ebb68865b1743c5528e2"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie2.ogg",
+      "path": "resources/newsound/mob/zombie2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie2.ogg",
       "sha256": "626e0f7a5bb15fb82729bf7d1abee398bda35fdce29f369d554061c96be38d1c"
     },
     {
-      "path": "Game/resources/newsound/mob/zombie3.ogg",
+      "path": "resources/newsound/mob/zombie3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombie3.ogg",
       "sha256": "d0e981ec22dd8a6927d1621c990b182789a712f30ad00108ab4f01f974fe6383"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiedeath.ogg",
+      "path": "resources/newsound/mob/zombiedeath.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiedeath.ogg",
       "sha256": "052cce2dea9fec085c9bd1c1541b60b6f1b9f2f5f5b69014e1e7310c761d3c30"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiehurt1.ogg",
+      "path": "resources/newsound/mob/zombiehurt1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiehurt1.ogg",
       "sha256": "fd2cbce6b58ab65e3dba73b2aa8d86b6e5753fd5c8d543e1b691e5c364bc4a6e"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiehurt2.ogg",
+      "path": "resources/newsound/mob/zombiehurt2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiehurt2.ogg",
       "sha256": "e91a2ace7d09d3bce417c5694308bc63243541ec23dce15d004432f32f5fdec8"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpig1.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpig1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpig1.ogg",
       "sha256": "57fdeea11f34b97d7a3c894d2db69d60ba078dca94a7ec23b5b73e92c2fddd8c"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpig2.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpig2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpig2.ogg",
       "sha256": "7e0b4bf25a0f5d3cc7ea192c0b51bdc37b21b365b3a2d102e08834b7ecbb27f6"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpig3.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpig3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpig3.ogg",
       "sha256": "bdd44aca52225f2cc3a7034b46bd393d6d147df28ebe3a3bc460e3c99378e545"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpig4.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpig4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpig4.ogg",
       "sha256": "17487cce5ff083b47eee1a6de6994451033dbb5fef4b2a1b9cdfaa71e60f32e1"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpigangry1.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpigangry1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpigangry1.ogg",
       "sha256": "1d1514b285a32d30472942791757adc3d892cde8c4c1ee0cc9f410f0e65b9b72"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpigangry2.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpigangry2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpigangry2.ogg",
       "sha256": "8010ee10e882f2edc472995e1b64514cf47f999ce45c2297db5f045b52c7340a"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpigangry3.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpigangry3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpigangry3.ogg",
       "sha256": "ae9f09525815c565eeccb455172e3788b168dea9e3599d1f937a505cc850c2c0"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpigangry4.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpigangry4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpigangry4.ogg",
       "sha256": "07fe9793a277d07944a5c4951670786760c2afa11607e93864659c9cae71e9f1"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpigdeath.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpigdeath.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpigdeath.ogg",
       "sha256": "1a5030004c1fc20f7af95253651bdc2e24df6c0034dc6bb17d6dec53b038185f"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpighurt1.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpighurt1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpighurt1.ogg",
       "sha256": "e28d1459b24673a8922a039a94acad1e051fc47dc2932407daa99ce5c49b56c4"
     },
     {
-      "path": "Game/resources/newsound/mob/zombiepig/zpighurt2.ogg",
+      "path": "resources/newsound/mob/zombiepig/zpighurt2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/mob/zombiepig/zpighurt2.ogg",
       "sha256": "05b632aab1c50232259f218119a82618ed35634d196280dbb25fecd145f62e55"
     },
     {
-      "path": "Game/resources/newsound/note/bass.ogg",
+      "path": "resources/newsound/note/bass.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/note/bass.ogg",
       "sha256": "7a9581ad340672efc6a77bf990175fb2a725fec400c39417cac783452562b247"
     },
     {
-      "path": "Game/resources/newsound/note/bassattack.ogg",
+      "path": "resources/newsound/note/bassattack.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/note/bassattack.ogg",
       "sha256": "7261568b63fea6a5763335479d16980329ae0c8db35f1b743eb86005d1a12150"
     },
     {
-      "path": "Game/resources/newsound/note/bd.ogg",
+      "path": "resources/newsound/note/bd.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/note/bd.ogg",
       "sha256": "829e1ff33546ef3de4e1e1a38ca3e0dc8a582227c284052868963333ed790686"
     },
     {
-      "path": "Game/resources/newsound/note/harp.ogg",
+      "path": "resources/newsound/note/harp.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/note/harp.ogg",
       "sha256": "d775e11718dba8dd601e76bee5958aa02ed0d56c26481881d4c28226f7bd4477"
     },
     {
-      "path": "Game/resources/newsound/note/hat.ogg",
+      "path": "resources/newsound/note/hat.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/note/hat.ogg",
       "sha256": "8139400f63c0bc7114e960826a11bb1cd561e8f0c01dce077dbc6424ae51ab6c"
     },
     {
-      "path": "Game/resources/newsound/note/pling.ogg",
+      "path": "resources/newsound/note/pling.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/note/pling.ogg",
       "sha256": "d7e3638d4c0fba4614f24ba94d6380935ae2341536d76989e44f00ffd94a1459"
     },
     {
-      "path": "Game/resources/newsound/note/snare.ogg",
+      "path": "resources/newsound/note/snare.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/note/snare.ogg",
       "sha256": "a2a5168e70548dcddd5015204cec586365e611854e83bf634b42f2a6ddd8c3b7"
     },
     {
-      "path": "Game/resources/newsound/portal/portal.ogg",
+      "path": "resources/newsound/portal/portal.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/portal/portal.ogg",
       "sha256": "e99e597079059f33b1e926728c99ff145eb36097de77c0f66ee87236c0fddcda"
     },
     {
-      "path": "Game/resources/newsound/portal/travel.ogg",
+      "path": "resources/newsound/portal/travel.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/portal/travel.ogg",
       "sha256": "2a78858744fa32d2ee9531b666dc9b2d89866bf69a6a2bb8b9436092a8127768"
     },
     {
-      "path": "Game/resources/newsound/portal/trigger.ogg",
+      "path": "resources/newsound/portal/trigger.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/portal/trigger.ogg",
       "sha256": "58ec8b9d6c81c738b300073456e13fe898d80d415ef5439f5f94454c11092603"
     },
     {
-      "path": "Game/resources/newsound/random/bow.ogg",
+      "path": "resources/newsound/random/bow.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/bow.ogg",
       "sha256": "9492b523393851444789a0befcb1c0c5f382638b9b87e56dfa4da6dcb61dd3f3"
     },
     {
-      "path": "Game/resources/newsound/random/bowhit1.ogg",
+      "path": "resources/newsound/random/bowhit1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/bowhit1.ogg",
       "sha256": "31e05e73edb52ff6871f60d60ce1ed8912cf1f6c85ba68a571808efba3d9890e"
     },
     {
-      "path": "Game/resources/newsound/random/bowhit2.ogg",
+      "path": "resources/newsound/random/bowhit2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/bowhit2.ogg",
       "sha256": "fa7acce9893cd8ae274bf57453d782d825915e31999a21f0c38713116a100b45"
     },
     {
-      "path": "Game/resources/newsound/random/bowhit3.ogg",
+      "path": "resources/newsound/random/bowhit3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/bowhit3.ogg",
       "sha256": "5904f027d0db3f29434fc5840ab25b5115abfb11dfc858ddc339380554f24713"
     },
     {
-      "path": "Game/resources/newsound/random/bowhit4.ogg",
+      "path": "resources/newsound/random/bowhit4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/bowhit4.ogg",
       "sha256": "1f5dfd0b9a203ea49c1f90a91bd8da23839748bc7fbe00424dae703046684b59"
     },
     {
-      "path": "Game/resources/newsound/random/break.ogg",
+      "path": "resources/newsound/random/break.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/break.ogg",
       "sha256": "5f6a07395aff066ab493beb36cec9e40879a1c70e66f181878b10ef7568be581"
     },
     {
-      "path": "Game/resources/newsound/random/breath.ogg",
+      "path": "resources/newsound/random/breath.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/breath.ogg",
       "sha256": "d72a45fe2628a78366289e9d6abfd43b910bbda97c1b961b58a40b37d2175e35"
     },
     {
-      "path": "Game/resources/newsound/random/burp.ogg",
+      "path": "resources/newsound/random/burp.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/burp.ogg",
       "sha256": "e49f343cf4289dc1c25f9932075a6b07a89bb13c885fea4ebc2634f43ba35c8d"
     },
     {
-      "path": "Game/resources/newsound/random/chestclosed.ogg",
+      "path": "resources/newsound/random/chestclosed.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/chestclosed.ogg",
       "sha256": "cabd102798e979d06e369f50b82c32a873c97a730fbe501b2207a9caf5e9e0cd"
     },
     {
-      "path": "Game/resources/newsound/random/chestopen.ogg",
+      "path": "resources/newsound/random/chestopen.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/chestopen.ogg",
       "sha256": "0071c94ea25dc346cc6f8e5cfdef4bb1788131634de459a3374bab16803e3200"
     },
     {
-      "path": "Game/resources/newsound/random/click.ogg",
+      "path": "resources/newsound/random/click.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/click.ogg",
       "sha256": "f69421ba05229236c7a4efbc9a5e18c4aeb0621feb95471241ef0063c21b865a"
     },
     {
-      "path": "Game/resources/newsound/random/door_close.ogg",
+      "path": "resources/newsound/random/door_close.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/door_close.ogg",
       "sha256": "09a032fa28c0ded8a4b27d3b59db26ca9a0fc21bc97fd0bc269477fc475db6e3"
     },
     {
-      "path": "Game/resources/newsound/random/door_open.ogg",
+      "path": "resources/newsound/random/door_open.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/door_open.ogg",
       "sha256": "b60716ee3bb4b9bd971f63ef06d7cb1282539801f3fced860df715f80c4f0754"
     },
     {
-      "path": "Game/resources/newsound/random/drink.ogg",
+      "path": "resources/newsound/random/drink.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/drink.ogg",
       "sha256": "05cac0f8c7e3d002254b2b73d31d2457c39c0a1791e47dc319b5cab13dd23206"
     },
     {
-      "path": "Game/resources/newsound/random/drr.ogg",
+      "path": "resources/newsound/random/drr.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/drr.ogg",
       "sha256": "2f177dd9e7b9a710ee2e04d75bf3cb51864d04e03dafb859c730c1965f476fb0"
     },
     {
-      "path": "Game/resources/newsound/random/eat1.ogg",
+      "path": "resources/newsound/random/eat1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/eat1.ogg",
       "sha256": "b2c679f3a7c177a94134cbaa11dfe08ddefee439c1cffc448d7621f3e4229e82"
     },
     {
-      "path": "Game/resources/newsound/random/eat2.ogg",
+      "path": "resources/newsound/random/eat2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/eat2.ogg",
       "sha256": "71a4b8035a72e7c881219b6419bb7de66ffd128c10743448fc1c69cdfb3b8a35"
     },
     {
-      "path": "Game/resources/newsound/random/eat3.ogg",
+      "path": "resources/newsound/random/eat3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/eat3.ogg",
       "sha256": "3c6f012d2ceb63062d2705c4892a53970ed504c20b08d82e113fa876e734c5f0"
     },
     {
-      "path": "Game/resources/newsound/random/explode1.ogg",
+      "path": "resources/newsound/random/explode1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/explode1.ogg",
       "sha256": "ec6fe52205a861046bc6a45d284fbe8233b05f87bda87a67a7d4c24b74acc997"
     },
     {
-      "path": "Game/resources/newsound/random/explode2.ogg",
+      "path": "resources/newsound/random/explode2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/explode2.ogg",
       "sha256": "c6438fb756b69367d9c4262def4d0c1836d6ecd4d0b6a831168c2e705253c688"
     },
     {
-      "path": "Game/resources/newsound/random/explode3.ogg",
+      "path": "resources/newsound/random/explode3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/explode3.ogg",
       "sha256": "6178b31e2001591c67a019ed8176d76095f821e9a869f5f2418f41ed09f7adca"
     },
     {
-      "path": "Game/resources/newsound/random/explode4.ogg",
+      "path": "resources/newsound/random/explode4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/explode4.ogg",
       "sha256": "0524d95e0f8d537dcc7b9f585e0f99975a0676162cc722f96c05ab47c45c7a76"
     },
     {
-      "path": "Game/resources/newsound/random/fizz.ogg",
+      "path": "resources/newsound/random/fizz.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/fizz.ogg",
       "sha256": "32c42c9c46b99b40191ab10dca9096ff7d7fc05f69276b418a4ae244f08e319e"
     },
     {
-      "path": "Game/resources/newsound/random/fuse.ogg",
+      "path": "resources/newsound/random/fuse.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/fuse.ogg",
       "sha256": "4cf9560e566bcf200f61e460e47cd18f6002304a28d376c6ba2139ec96628828"
     },
     {
-      "path": "Game/resources/newsound/random/glass1.ogg",
+      "path": "resources/newsound/random/glass1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/glass1.ogg",
       "sha256": "ac96668c1b15115e362b2d7d033c46df1575535da06cbcb8bed2fa3b740ab446"
     },
     {
-      "path": "Game/resources/newsound/random/glass2.ogg",
+      "path": "resources/newsound/random/glass2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/glass2.ogg",
       "sha256": "7288bb874add42719964c87a232c2897f3e965e33ca55652b4744b4fad87fcea"
     },
     {
-      "path": "Game/resources/newsound/random/glass3.ogg",
+      "path": "resources/newsound/random/glass3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/glass3.ogg",
       "sha256": "062c3175b3ab2b7e44b52a10bb9ff60eb6c01f5b19f165e90df0ab0c215b07d6"
     },
     {
-      "path": "Game/resources/newsound/random/hurt.ogg",
+      "path": "resources/newsound/random/hurt.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/hurt.ogg",
       "sha256": "f087f1373227cdfa745bd43d977492fd875cf193b41dec6837ba331e74c0a818"
     },
     {
-      "path": "Game/resources/newsound/random/levelup.ogg",
+      "path": "resources/newsound/random/levelup.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/levelup.ogg",
       "sha256": "550ca1fecca230f6dfea6ecab62a617b4b7a6d0ac9cdd371ea9085caf0e9097a"
     },
     {
-      "path": "Game/resources/newsound/random/old_explode.ogg",
+      "path": "resources/newsound/random/old_explode.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/old_explode.ogg",
       "sha256": "5d996493c8829e5126cc25e4c16f6c06f1a0cff88f79abdff213e7179a111481"
     },
     {
-      "path": "Game/resources/newsound/random/orb.ogg",
+      "path": "resources/newsound/random/orb.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/orb.ogg",
       "sha256": "5998bf8ee2eecc2779ef896f04a540f9d48d4e96cc9227aae4646f4d9b817749"
     },
     {
-      "path": "Game/resources/newsound/random/pop.ogg",
+      "path": "resources/newsound/random/pop.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/pop.ogg",
       "sha256": "5e3baf518a0104760dc06a2e0088b377433997b46511c1730db0e3ba6f2b0ca7"
     },
     {
-      "path": "Game/resources/newsound/random/splash.ogg",
+      "path": "resources/newsound/random/splash.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/splash.ogg",
       "sha256": "7a04c68c956f4fe67935e6665666e603de918f64683a79f9e5d5700e6a4c2765"
     },
     {
-      "path": "Game/resources/newsound/random/wood click.ogg",
+      "path": "resources/newsound/random/wood click.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/random/wood%20click.ogg",
       "sha256": "7dce4248fec6971e31c9a5fa644b3a93449eeab010c79cf732d24ba95887d0ba"
     },
     {
-      "path": "Game/resources/newsound/step/cloth1.ogg",
+      "path": "resources/newsound/step/cloth1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/cloth1.ogg",
       "sha256": "8a716f2a3cbfb5d330d3aa9999ff56f0636cf388991caa06d866576989c9f36e"
     },
     {
-      "path": "Game/resources/newsound/step/cloth2.ogg",
+      "path": "resources/newsound/step/cloth2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/cloth2.ogg",
       "sha256": "139fc234e51f7825fcdedf10c93d8d60c59df9b4955334f409a624e4b3e6bfbb"
     },
     {
-      "path": "Game/resources/newsound/step/cloth3.ogg",
+      "path": "resources/newsound/step/cloth3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/cloth3.ogg",
       "sha256": "ac49293ab32aa3154eb5c1251e3175a55d28f9e6866bf74fa76c2cefdf6cc40e"
     },
     {
-      "path": "Game/resources/newsound/step/cloth4.ogg",
+      "path": "resources/newsound/step/cloth4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/cloth4.ogg",
       "sha256": "09d5879722c54c86d39d83df919f7f712ed92044ffb5b0a6757b9fc2e02281a3"
     },
     {
-      "path": "Game/resources/newsound/step/grass1.ogg",
+      "path": "resources/newsound/step/grass1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/grass1.ogg",
       "sha256": "3619fdb8f8aad57a48d45e02a3e8be90a9ca5d0ab8c8802961c78fd59c1f84fa"
     },
     {
-      "path": "Game/resources/newsound/step/grass2.ogg",
+      "path": "resources/newsound/step/grass2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/grass2.ogg",
       "sha256": "b0763cf2c5b4d49602cb143e457b6206b6b101113a525795ef9c622ae31149df"
     },
     {
-      "path": "Game/resources/newsound/step/grass3.ogg",
+      "path": "resources/newsound/step/grass3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/grass3.ogg",
       "sha256": "9ac02803710f8556be3501d021ca2120d121339fa07f0a18a0b63ba5547508fd"
     },
     {
-      "path": "Game/resources/newsound/step/grass4.ogg",
+      "path": "resources/newsound/step/grass4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/grass4.ogg",
       "sha256": "dd73335714e52237ef6ebc05035418367b4785cfef749b5ea1cd9b6b1c523b93"
     },
     {
-      "path": "Game/resources/newsound/step/gravel1.ogg",
+      "path": "resources/newsound/step/gravel1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/gravel1.ogg",
       "sha256": "55a610c8739c045a65343b8447c6b95c1e54465939aab666001af2d4869c1e83"
     },
     {
-      "path": "Game/resources/newsound/step/gravel2.ogg",
+      "path": "resources/newsound/step/gravel2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/gravel2.ogg",
       "sha256": "60ebf0ed49f258a62adb9849386b2795f7e409d21ff958a803eb0727d7e98913"
     },
     {
-      "path": "Game/resources/newsound/step/gravel3.ogg",
+      "path": "resources/newsound/step/gravel3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/gravel3.ogg",
       "sha256": "ab5e4b408d1eca44546e86c11f5fcc66d3a4c035910ab14736f952d1e8ce98fd"
     },
     {
-      "path": "Game/resources/newsound/step/gravel4.ogg",
+      "path": "resources/newsound/step/gravel4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/gravel4.ogg",
       "sha256": "fd4aa7553a4f99fe435b2df57bf9ec1040ee2409d09fbd15dbc7049f0e261ddb"
     },
     {
-      "path": "Game/resources/newsound/step/sand1.ogg",
+      "path": "resources/newsound/step/sand1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/sand1.ogg",
       "sha256": "1260ef32a374eb6ca23da821764886b67d655bd2ee34a71a1520e90c308aa63e"
     },
     {
-      "path": "Game/resources/newsound/step/sand2.ogg",
+      "path": "resources/newsound/step/sand2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/sand2.ogg",
       "sha256": "74ef2fa1b6c52356ffa9bce77c826681be52d73f0deaa423e87694a2fd79fffd"
     },
     {
-      "path": "Game/resources/newsound/step/sand3.ogg",
+      "path": "resources/newsound/step/sand3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/sand3.ogg",
       "sha256": "0441e996d75a0d2d67cec2ef60251f2a9cde6e15299589db79f4690ea8cc580e"
     },
     {
-      "path": "Game/resources/newsound/step/sand4.ogg",
+      "path": "resources/newsound/step/sand4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/sand4.ogg",
       "sha256": "42ac91167d26014e04fa8c50435d655e2b0c6168f319c9c99ea7377b4df912a5"
     },
     {
-      "path": "Game/resources/newsound/step/snow1.ogg",
+      "path": "resources/newsound/step/snow1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/snow1.ogg",
       "sha256": "f7e03bb5bcc487cea313bfd72ded4cfd4e215b82228cf9744760f61da4c496bb"
     },
     {
-      "path": "Game/resources/newsound/step/snow2.ogg",
+      "path": "resources/newsound/step/snow2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/snow2.ogg",
       "sha256": "a0d603f69ad58662e688d74b9ca2f345eebc0938b4af954f16840adf436fe8d9"
     },
     {
-      "path": "Game/resources/newsound/step/snow3.ogg",
+      "path": "resources/newsound/step/snow3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/snow3.ogg",
       "sha256": "ae97513c5bcac9d08f5c8bcbaf55b7a3112134603c141b5de70e15a06c77e325"
     },
     {
-      "path": "Game/resources/newsound/step/snow4.ogg",
+      "path": "resources/newsound/step/snow4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/snow4.ogg",
       "sha256": "c7918a0b58c45a6f0d29fa990bbd31a7b482ef61387c83a02eb7f70b672e4761"
     },
     {
-      "path": "Game/resources/newsound/step/stone1.ogg",
+      "path": "resources/newsound/step/stone1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/stone1.ogg",
       "sha256": "97f2a8a73b6f577b85c1a162c31810c7aff1ad1f34564dfdacebb64b26d1c7c6"
     },
     {
-      "path": "Game/resources/newsound/step/stone2.ogg",
+      "path": "resources/newsound/step/stone2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/stone2.ogg",
       "sha256": "98a5c3197845526e6ca9e8a669ffda843cfae3f5c7ac842ee6aac8896bae03b2"
     },
     {
-      "path": "Game/resources/newsound/step/stone3.ogg",
+      "path": "resources/newsound/step/stone3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/stone3.ogg",
       "sha256": "19273f0e7e25b459ea29511dcbc4f7f209c04cea2fd1c34a16250737469ca51c"
     },
     {
-      "path": "Game/resources/newsound/step/stone4.ogg",
+      "path": "resources/newsound/step/stone4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/stone4.ogg",
       "sha256": "b164e7324510480abac9518090e48439123ea05ebc48970e48fc59406729a197"
     },
     {
-      "path": "Game/resources/newsound/step/wood1.ogg",
+      "path": "resources/newsound/step/wood1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/wood1.ogg",
       "sha256": "cb6071c83a7f19ee555e9d661dc9e564c77ad9fcf2d1a6848aab21bc3b1c0289"
     },
     {
-      "path": "Game/resources/newsound/step/wood2.ogg",
+      "path": "resources/newsound/step/wood2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/wood2.ogg",
       "sha256": "59edca84840951f2d6f0ad9ff5fd439a6dc916b2cc50164569b94ee107b4bc3f"
     },
     {
-      "path": "Game/resources/newsound/step/wood3.ogg",
+      "path": "resources/newsound/step/wood3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/wood3.ogg",
       "sha256": "cf6be2314c08ea3fd311bdaebe14d0c73ca189bbbda09f96d26a3dea7e711cf6"
     },
     {
-      "path": "Game/resources/newsound/step/wood4.ogg",
+      "path": "resources/newsound/step/wood4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/step/wood4.ogg",
       "sha256": "de868b3119b03ad42cbe502805e895a5fd8565f059f991f542b4ee68d6556bfe"
     },
     {
-      "path": "Game/resources/newsound/tile/piston/in.ogg",
+      "path": "resources/newsound/tile/piston/in.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/tile/piston/in.ogg",
       "sha256": "8cb549c666fea3e34101a5765907009696a76d32104012ed547adb2e9130ce66"
     },
     {
-      "path": "Game/resources/newsound/tile/piston/out.ogg",
+      "path": "resources/newsound/tile/piston/out.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/newsound/tile/piston/out.ogg",
       "sha256": "ab7a8f3ab45c2375bc7412b496ee80a94e79fa14a226d838e2dd38c6c8c0f91c"
     },
     {
-      "path": "Game/resources/sound/step/grass1.ogg",
+      "path": "resources/sound/step/grass1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/grass1.ogg",
       "sha256": "3619fdb8f8aad57a48d45e02a3e8be90a9ca5d0ab8c8802961c78fd59c1f84fa"
     },
     {
-      "path": "Game/resources/sound/step/grass2.ogg",
+      "path": "resources/sound/step/grass2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/grass2.ogg",
       "sha256": "b0763cf2c5b4d49602cb143e457b6206b6b101113a525795ef9c622ae31149df"
     },
     {
-      "path": "Game/resources/sound/step/grass3.ogg",
+      "path": "resources/sound/step/grass3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/grass3.ogg",
       "sha256": "9ac02803710f8556be3501d021ca2120d121339fa07f0a18a0b63ba5547508fd"
     },
     {
-      "path": "Game/resources/sound/step/grass4.ogg",
+      "path": "resources/sound/step/grass4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/grass4.ogg",
       "sha256": "dd73335714e52237ef6ebc05035418367b4785cfef749b5ea1cd9b6b1c523b93"
     },
     {
-      "path": "Game/resources/sound/step/gravel1.ogg",
+      "path": "resources/sound/step/gravel1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/gravel1.ogg",
       "sha256": "55a610c8739c045a65343b8447c6b95c1e54465939aab666001af2d4869c1e83"
     },
     {
-      "path": "Game/resources/sound/step/gravel2.ogg",
+      "path": "resources/sound/step/gravel2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/gravel2.ogg",
       "sha256": "60ebf0ed49f258a62adb9849386b2795f7e409d21ff958a803eb0727d7e98913"
     },
     {
-      "path": "Game/resources/sound/step/gravel3.ogg",
+      "path": "resources/sound/step/gravel3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/gravel3.ogg",
       "sha256": "ab5e4b408d1eca44546e86c11f5fcc66d3a4c035910ab14736f952d1e8ce98fd"
     },
     {
-      "path": "Game/resources/sound/step/gravel4.ogg",
+      "path": "resources/sound/step/gravel4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/gravel4.ogg",
       "sha256": "fd4aa7553a4f99fe435b2df57bf9ec1040ee2409d09fbd15dbc7049f0e261ddb"
     },
     {
-      "path": "Game/resources/sound/step/stone1.ogg",
+      "path": "resources/sound/step/stone1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/stone1.ogg",
       "sha256": "97f2a8a73b6f577b85c1a162c31810c7aff1ad1f34564dfdacebb64b26d1c7c6"
     },
     {
-      "path": "Game/resources/sound/step/stone2.ogg",
+      "path": "resources/sound/step/stone2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/stone2.ogg",
       "sha256": "98a5c3197845526e6ca9e8a669ffda843cfae3f5c7ac842ee6aac8896bae03b2"
     },
     {
-      "path": "Game/resources/sound/step/stone3.ogg",
+      "path": "resources/sound/step/stone3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/stone3.ogg",
       "sha256": "19273f0e7e25b459ea29511dcbc4f7f209c04cea2fd1c34a16250737469ca51c"
     },
     {
-      "path": "Game/resources/sound/step/stone4.ogg",
+      "path": "resources/sound/step/stone4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/stone4.ogg",
       "sha256": "b164e7324510480abac9518090e48439123ea05ebc48970e48fc59406729a197"
     },
     {
-      "path": "Game/resources/sound/step/wood1.ogg",
+      "path": "resources/sound/step/wood1.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/wood1.ogg",
       "sha256": "cb6071c83a7f19ee555e9d661dc9e564c77ad9fcf2d1a6848aab21bc3b1c0289"
     },
     {
-      "path": "Game/resources/sound/step/wood2.ogg",
+      "path": "resources/sound/step/wood2.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/wood2.ogg",
       "sha256": "59edca84840951f2d6f0ad9ff5fd439a6dc916b2cc50164569b94ee107b4bc3f"
     },
     {
-      "path": "Game/resources/sound/step/wood3.ogg",
+      "path": "resources/sound/step/wood3.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/wood3.ogg",
       "sha256": "cf6be2314c08ea3fd311bdaebe14d0c73ca189bbbda09f96d26a3dea7e711cf6"
     },
     {
-      "path": "Game/resources/sound/step/wood4.ogg",
+      "path": "resources/sound/step/wood4.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/sound/step/wood4.ogg",
       "sha256": "de868b3119b03ad42cbe502805e895a5fd8565f059f991f542b4ee68d6556bfe"
     },
     {
-      "path": "Game/resources/streaming/11.mus",
+      "path": "resources/streaming/11.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/11.mus",
       "sha256": "546b47bae3185a96b33b5c82b0b7926c3574c583345edc0ada61d85b1483506f"
     },
     {
-      "path": "Game/resources/streaming/13.mus",
+      "path": "resources/streaming/13.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/13.mus",
       "sha256": "34f8b6009ecd8467459c102dfcc5ae450d0109d5b28b7a8d67dd1eada9fa52e3"
     },
     {
-      "path": "Game/resources/streaming/13.ogg",
+      "path": "resources/streaming/13.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/13.ogg",
       "sha256": "6ffa34f875e05882d39b191e4608794ef009b4444cd95b940de682e1d631a93a"
     },
     {
-      "path": "Game/resources/streaming/blocks.mus",
+      "path": "resources/streaming/blocks.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/blocks.mus",
       "sha256": "1be5e48004e53ae5ca7cb3f38340c4de22a4ef842aee7ae2c1460913b35cde1d"
     },
     {
-      "path": "Game/resources/streaming/cat.mus",
+      "path": "resources/streaming/cat.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/cat.mus",
       "sha256": "e16455a7b74a548ad69c580b47ba6edede62a32746323ab759c7206b088b582e"
     },
     {
-      "path": "Game/resources/streaming/cat.ogg",
+      "path": "resources/streaming/cat.ogg",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/cat.ogg",
       "sha256": "cfdcd419da8ab1aac21804f04c674a58bce6a417845e669bf5d49080f28147d5"
     },
     {
-      "path": "Game/resources/streaming/chirp.mus",
+      "path": "resources/streaming/chirp.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/chirp.mus",
       "sha256": "dcca5b9b5dc10cab811cb984a5a62a51e960b4991a35015b3c79d233d3056df8"
     },
     {
-      "path": "Game/resources/streaming/far.mus",
+      "path": "resources/streaming/far.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/far.mus",
       "sha256": "870c83212cba5d163bbd7a2b21b276fc991db57d4e28465d59699595cd9ad19a"
     },
     {
-      "path": "Game/resources/streaming/mall.mus",
+      "path": "resources/streaming/mall.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/mall.mus",
       "sha256": "1b95e25acf1b7e2750d182e028c713cc3984a0b59dedfc05783975161210a704"
     },
     {
-      "path": "Game/resources/streaming/mellohi.mus",
+      "path": "resources/streaming/mellohi.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/mellohi.mus",
       "sha256": "8ab9266b24111ab9486bc05bfe4263191a35a2d57710db4babc8d711fab9b56b"
     },
     {
-      "path": "Game/resources/streaming/stal.mus",
+      "path": "resources/streaming/stal.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/stal.mus",
       "sha256": "efa2f263e5af30292cb54a22249169900e07605d5a4772d1c6ded3ee00ec23a9"
     },
     {
-      "path": "Game/resources/streaming/strad.mus",
+      "path": "resources/streaming/strad.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/strad.mus",
       "sha256": "061992b208e2cba642bbfadf43b5e6c2028339e6282a611c753ad698c3b21be4"
     },
     {
-      "path": "Game/resources/streaming/wait.mus",
+      "path": "resources/streaming/wait.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/wait.mus",
       "sha256": "69483fe4d54b1d8b062facb1f51da657ac62a965673585e17cce82dca9da1666"
     },
     {
-      "path": "Game/resources/streaming/ward.mus",
+      "path": "resources/streaming/ward.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/ward.mus",
       "sha256": "16f3c275248463d689de3ecdcc8af78edf128ab7fe90ee2087df5c837a141135"
     },
     {
-      "path": "Game/resources/streaming/where are we now.mus",
+      "path": "resources/streaming/where are we now.mus",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/resources/streaming/where%20are%20we%20now.mus",
       "sha256": "1cbd81ccdc07c906eae7a8778f5b9d1b29dce66cdf305328b0e98e1b56a9fb4f"
     }
