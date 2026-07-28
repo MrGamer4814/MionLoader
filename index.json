@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 0.3,
   "files": [
     {
       "path": "lib/lwjgl-3.4.1-natives-windows.jar",
@@ -44,7 +44,7 @@
     {
       "path": "minecraft.jar",
       "url": "https://github.com/MrGamer4814/MionLoader/blob/main/Game/minecraft.jar",
-      "sha256": "a170fc1575e17652c71773cecd0bd2193e7bac8301ae79e2f1eb909a679b59b1"
+      "sha256": "e23de781aa7daf1641a9d28f4e97454c2672c8982c05d8d459fc5f6b170e1a58"
     },
     {
       "path": "natives/jinput-dx8_64.dll",
