@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 0.3,
   "files": [
     {
       "path": "lib/lwjgl-3.4.1-natives-windows.jar",
